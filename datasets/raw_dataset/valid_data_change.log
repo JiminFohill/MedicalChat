@@ -1,0 +1,2378 @@
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left area -> left
+INFO:root:bilateral lower lung area -> bilateral lower lung
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right basal area -> right basal
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:AP view -> anteroposterior
+INFO:root:basal area -> basal
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area and right area -> left and right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left basilar area -> left basilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:middle to lower left lung area -> middle to lower left lung
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:left area -> left
+INFO:root:basal area -> basal
+INFO:root:AP view -> anteroposterior
+INFO:root:lung bibasilar area -> lung bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left basilar area -> left basilar
+INFO:root:right retrocardiac area -> right retrocardiac
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left basal area -> left basal
+INFO:root:right area -> right
+INFO:root:right apical area -> right apical
+INFO:root:left area -> left
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:right basal area -> right basal
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:right apical area -> right apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left basal area -> left basal
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lung area -> left lung
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:lower area -> lower
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:rib area -> rib
+INFO:root:lung right upper area -> lung right upper
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:lower lung area -> lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:left basal area -> left basal
+INFO:root:bilateral basilar area -> bilateral basilar
+INFO:root:rib area -> rib
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:left basal area -> left basal
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:AP view -> anteroposterior
+INFO:root:left mid area -> left mid
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right lung area -> right lung
+INFO:root:right basal area -> right basal
+INFO:root:PA view -> posteroanterior
+INFO:root:right area and left area -> right and left
+INFO:root:bilateral apical area -> bilateral apical
+INFO:root:PA view -> posteroanterior
+INFO:root:left lung area -> left lung
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:AP view -> anteroposterior
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:right lower area -> right lower
+INFO:root:left lower lung area -> left lower lung
+INFO:root:AP view -> anteroposterior
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left rib area -> left rib
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area and right area -> bilateral and right
+INFO:root:right area and left lower lung area -> right and left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral lower lung area -> bilateral lower lung
+INFO:root:right apical area -> right apical
+INFO:root:right area -> right
+INFO:root:right upper lung area -> right upper lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right basal area -> right basal
+INFO:root:left lung area -> left lung
+INFO:root:lung area -> lung
+INFO:root:bilateral area and right area -> bilateral and right
+INFO:root:AP view -> anteroposterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right basilar area -> right basilar
+INFO:root:left area -> left
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:right basilar area -> right basilar
+INFO:root:lower area -> lower
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:AP view -> anteroposterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral basilar area -> bilateral basilar
+INFO:root:basilar area -> basilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:lung area -> lung
+INFO:root:right area and left area -> right and left
+INFO:root:PA view -> posteroanterior
+INFO:root:pericardial area -> pericardial
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right rib area -> right rib
+INFO:root:AP view -> anteroposterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:right upper lung area -> right upper lung
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:left upper lung area -> left upper lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:bilateral lower lung area -> bilateral lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lower area -> lower
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral lower lung area -> bilateral lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lung left area -> lung left
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right area and left area -> right and left
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:apical area -> apical
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:right apical area -> right apical
+INFO:root:bibasilar area and right basal lung area -> bibasilar and right basal lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lung left middle lung area -> lung left middle lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right basal area -> right basal
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right middle lung area -> right middle lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:pericardial area -> pericardial
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right lower lung area -> right lower lung
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area and left area -> right and left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:bilateral upper lung area -> bilateral upper lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:AP view -> anteroposterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:upper area -> upper
+INFO:root:left apical area -> left apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:basal area -> basal
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area -> left
+INFO:root:left area and right area -> left and right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left basilar area -> left basilar
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:lung bilateral area -> lung bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right upper lung area -> right upper lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:rib area -> rib
+INFO:root:rib area -> rib
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left apical area -> left apical
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right basilar area -> right basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right basal area -> right basal
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lower area -> lower
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral rib area -> bilateral rib
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:apical area -> apical
+INFO:root:left lung area -> left lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:lower lung area -> lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral upper lung area -> bilateral upper lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:pleural area -> pleural
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left apical area -> left apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area and right area -> left and right
+INFO:root:left lung area -> left lung
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:basilar area -> basilar
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:middle to lower left area -> middle to lower left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:left basilar area -> left basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:pleural right area -> pleural right
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:left basal area -> left basal
+INFO:root:AP view -> anteroposterior
+INFO:root:left upper lung area -> left upper lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:basilar area -> basilar
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right rib area -> right rib
+INFO:root:right rib area -> right rib
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:rib area -> rib
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left basal area -> left basal
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:pericardial area -> pericardial
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left area -> left
+INFO:root:left area and right area -> left and right
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left basilar area -> left basilar
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right basilar area -> right basilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:left rib area -> left rib
+INFO:root:PA view -> posteroanterior
+INFO:root:left lung area -> left lung
+INFO:root:bilateral area -> bilateral
+INFO:root:rib area -> rib
+INFO:root:left apical area -> left apical
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:right basal area -> right basal
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:pericardial area -> pericardial
+INFO:root:PA view -> posteroanterior
+INFO:root:left middle lung area -> left middle lung
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left basilar area -> left basilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:basilar area -> basilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung area -> left lower lung
+INFO:root:lower lung area -> lower lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left upper rib area -> left upper rib
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right middle lung area -> right middle lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right basal area -> right basal
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left apical area -> left apical
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:lung bilateral area -> lung bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:lower area -> lower
+INFO:root:bibasilar area -> bibasilar
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:lung right middle area and bilateral area -> lung right middle and bilateral
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:bilateral lung area -> bilateral lung
+INFO:root:lower lung area -> lower lung
+INFO:root:right lung area -> right lung
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right rib area -> right rib
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:lower lung area -> lower lung
+INFO:root:lung area -> lung
+INFO:root:left area -> left
+INFO:root:left area and right area -> left and right
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area and left basilar area -> right basilar and left basilar
+INFO:root:right lung area -> right lung
+INFO:root:left area -> left
+INFO:root:basilar area -> basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area and right area -> bibasilar and right
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:basal area -> basal
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:lower lung left area -> lower lung left
+INFO:root:left area -> left
+INFO:root:lower lung area -> lower lung
+INFO:root:middle to lower right lung area -> middle to lower right lung
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lower lung area -> lower lung
+INFO:root:left rib area -> left rib
+INFO:root:AP view -> anteroposterior
+INFO:root:right area -> right
+INFO:root:apical area -> apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:right basilar area -> right basilar
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right basilar area -> right basilar
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left area and right area -> left and right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:AP view -> anteroposterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right apicolateral area -> right apicolateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:lower lung area -> lower lung
+INFO:root:right lower area -> right lower
+INFO:root:right basilar area -> right basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:lower area -> lower
+INFO:root:PA view -> posteroanterior
+INFO:root:right apical area -> right apical
+INFO:root:left lower area -> left lower
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right lower lung area -> right lower lung
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:right bilateral area -> right bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:right middle rib area -> right middle rib
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:left basilar area -> left basilar
+INFO:root:left retrocardiac area and right basal area -> left retrocardiac and right basal
+INFO:root:right basal area -> right basal
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:right area -> right
+INFO:root:left lung area -> left lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:rib area -> rib
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left apical area -> left apical
+INFO:root:left basilar area -> left basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:retrocardiac right area -> retrocardiac right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left basal area -> left basal
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bibasilar pleural area -> bibasilar pleural
+INFO:root:left area and right area -> left and right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:lower lung area -> lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:AP view -> anteroposterior
+INFO:root:right area -> right
+INFO:root:apical area -> apical
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right area -> right
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:basal area -> basal
+INFO:root:bilateral area -> bilateral
+INFO:root:right area and left area -> right and left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left area and bilateral area -> left and bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right basilar area -> right basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right rib area -> right rib
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right apical area -> right apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:lung left area -> lung left
+INFO:root:apical area -> apical
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:basal area -> basal
+INFO:root:left area -> left
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right basal area -> right basal
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left basal area -> left basal
+INFO:root:right area -> right
+INFO:root:lung bibasilar area -> lung bibasilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:right basilar area -> right basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:lower area -> lower
+INFO:root:basal pleural area -> basal pleural
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:rib area -> rib
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:pleural area -> pleural
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left basal area -> left basal
+INFO:root:left area -> left
+INFO:root:right middle lower lung area -> right middle lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:basilar area -> basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:middle to lower right lung area -> middle to lower right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:lower lung area -> lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left apical area -> left apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right middle lung area -> right middle lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lower lung area -> lower lung
+INFO:root:basilar area -> basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:mid area -> mid
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left middle lung area -> left middle lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:right apical area -> right apical
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung retrocardiac area and right upper lung area -> left lower lung retrocardiac and right upper lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral lung area -> bilateral lung
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:right rib area -> right rib
+INFO:root:AP view -> anteroposterior
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower area -> left lower
+INFO:root:right area -> right
+INFO:root:AP view -> anteroposterior
+INFO:root:left area -> left
+INFO:root:left basal area -> left basal
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:pleural area -> pleural
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:left lung area -> left lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:basilar area -> basilar
+INFO:root:AP view -> anteroposterior
+INFO:root:pericardial area -> pericardial
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:apical area -> apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:lung right area -> lung right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:right upper lung area -> right upper lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right apical area -> right apical
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area and right area -> left and right
+INFO:root:PA view -> posteroanterior
+INFO:root:left basilar area -> left basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lung area -> left lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:basilar area -> basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right lung area -> right lung
+INFO:root:right area -> right
+INFO:root:right basal area -> right basal
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:apical area -> apical
+INFO:root:right basal area -> right basal
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area and left area -> right and left
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right apical area -> right apical
+INFO:root:bilateral basal area -> bilateral basal
+INFO:root:lower area -> lower
+INFO:root:left lower area -> left lower
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right middle lung area -> right middle lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:right area and left area -> right and left
+INFO:root:PA view -> posteroanterior
+INFO:root:rib area -> rib
+INFO:root:pericardial area -> pericardial
+INFO:root:left rib area -> left rib
+INFO:root:right area -> right
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:lower lung area -> lower lung
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area and right lower lung area -> bibasilar and right lower lung
+INFO:root:left lung area -> left lung
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left basilar area -> left basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:共有8046条数据，修改了1188条数据，pa_ap_count:407,area_count:781
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left area -> left
+INFO:root:bilateral lower lung area -> bilateral lower lung
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right basal area -> right basal
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:AP view -> anteroposterior
+INFO:root:basal area -> basal
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area and right area -> left and right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left basilar area -> left basilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:middle to lower left lung area -> middle to lower left lung
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:left area -> left
+INFO:root:basal area -> basal
+INFO:root:AP view -> anteroposterior
+INFO:root:lung bibasilar area -> lung bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left basilar area -> left basilar
+INFO:root:right retrocardiac area -> right retrocardiac
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left basal area -> left basal
+INFO:root:right area -> right
+INFO:root:right apical area -> right apical
+INFO:root:left area -> left
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:right basal area -> right basal
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:right apical area -> right apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left basal area -> left basal
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lung area -> left lung
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:lower area -> lower
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:rib area -> rib
+INFO:root:lung right upper area -> lung right upper
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:lower lung area -> lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:left basal area -> left basal
+INFO:root:bilateral basilar area -> bilateral basilar
+INFO:root:rib area -> rib
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:left basal area -> left basal
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:AP view -> anteroposterior
+INFO:root:left mid area -> left mid
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right lung area -> right lung
+INFO:root:right basal area -> right basal
+INFO:root:PA view -> posteroanterior
+INFO:root:right area and left area -> right and left
+INFO:root:bilateral apical area -> bilateral apical
+INFO:root:PA view -> posteroanterior
+INFO:root:left lung area -> left lung
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:AP view -> anteroposterior
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:right lower area -> right lower
+INFO:root:left lower lung area -> left lower lung
+INFO:root:AP view -> anteroposterior
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left rib area -> left rib
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area and right area -> bilateral and right
+INFO:root:right area and left lower lung area -> right and left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral lower lung area -> bilateral lower lung
+INFO:root:right apical area -> right apical
+INFO:root:right area -> right
+INFO:root:right upper lung area -> right upper lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right basal area -> right basal
+INFO:root:left lung area -> left lung
+INFO:root:lung area -> lung
+INFO:root:bilateral area and right area -> bilateral and right
+INFO:root:AP view -> anteroposterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right basilar area -> right basilar
+INFO:root:left area -> left
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:right basilar area -> right basilar
+INFO:root:lower area -> lower
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:AP view -> anteroposterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral basilar area -> bilateral basilar
+INFO:root:basilar area -> basilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:lung area -> lung
+INFO:root:right area and left area -> right and left
+INFO:root:PA view -> posteroanterior
+INFO:root:pericardial area -> pericardial
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right rib area -> right rib
+INFO:root:AP view -> anteroposterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:right upper lung area -> right upper lung
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:left upper lung area -> left upper lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:bilateral lower lung area -> bilateral lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lower area -> lower
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral lower lung area -> bilateral lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lung left area -> lung left
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right area and left area -> right and left
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:apical area -> apical
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:right apical area -> right apical
+INFO:root:bibasilar area and right basal lung area -> bibasilar and right basal lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lung left middle lung area -> lung left middle lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right basal area -> right basal
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right middle lung area -> right middle lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:pericardial area -> pericardial
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right lower lung area -> right lower lung
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area and left area -> right and left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:bilateral upper lung area -> bilateral upper lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:AP view -> anteroposterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:upper area -> upper
+INFO:root:left apical area -> left apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:basal area -> basal
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area -> left
+INFO:root:left area and right area -> left and right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left basilar area -> left basilar
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:lung bilateral area -> lung bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right upper lung area -> right upper lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:rib area -> rib
+INFO:root:rib area -> rib
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left apical area -> left apical
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right basilar area -> right basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right basal area -> right basal
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lower area -> lower
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral rib area -> bilateral rib
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:apical area -> apical
+INFO:root:left lung area -> left lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:lower lung area -> lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral upper lung area -> bilateral upper lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:pleural area -> pleural
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left apical area -> left apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area and right area -> left and right
+INFO:root:left lung area -> left lung
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:basilar area -> basilar
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:middle to lower left area -> middle to lower left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:left basilar area -> left basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:pleural right area -> pleural right
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:left basal area -> left basal
+INFO:root:AP view -> anteroposterior
+INFO:root:left upper lung area -> left upper lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:basilar area -> basilar
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right rib area -> right rib
+INFO:root:right rib area -> right rib
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:rib area -> rib
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left basal area -> left basal
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:pericardial area -> pericardial
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left area -> left
+INFO:root:left area and right area -> left and right
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left basilar area -> left basilar
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right basilar area -> right basilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:left rib area -> left rib
+INFO:root:PA view -> posteroanterior
+INFO:root:left lung area -> left lung
+INFO:root:bilateral area -> bilateral
+INFO:root:rib area -> rib
+INFO:root:left apical area -> left apical
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:right basal area -> right basal
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:pericardial area -> pericardial
+INFO:root:PA view -> posteroanterior
+INFO:root:left middle lung area -> left middle lung
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left basilar area -> left basilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:basilar area -> basilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung area -> left lower lung
+INFO:root:lower lung area -> lower lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left upper rib area -> left upper rib
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right middle lung area -> right middle lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right basal area -> right basal
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left apical area -> left apical
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:lung bilateral area -> lung bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:lower area -> lower
+INFO:root:bibasilar area -> bibasilar
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:lung right middle area and bilateral area -> lung right middle and bilateral
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:bilateral lung area -> bilateral lung
+INFO:root:lower lung area -> lower lung
+INFO:root:right lung area -> right lung
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right rib area -> right rib
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:lower lung area -> lower lung
+INFO:root:lung area -> lung
+INFO:root:left area -> left
+INFO:root:left area and right area -> left and right
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area and left basilar area -> right basilar and left basilar
+INFO:root:right lung area -> right lung
+INFO:root:left area -> left
+INFO:root:basilar area -> basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area and right area -> bibasilar and right
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:basal area -> basal
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:lower lung left area -> lower lung left
+INFO:root:left area -> left
+INFO:root:lower lung area -> lower lung
+INFO:root:middle to lower right lung area -> middle to lower right lung
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lower lung area -> lower lung
+INFO:root:left rib area -> left rib
+INFO:root:AP view -> anteroposterior
+INFO:root:right area -> right
+INFO:root:apical area -> apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:bilateral area -> bilateral
+INFO:root:right basilar area -> right basilar
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right basilar area -> right basilar
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left area and right area -> left and right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:AP view -> anteroposterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:right apicolateral area -> right apicolateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:lower lung area -> lower lung
+INFO:root:right lower area -> right lower
+INFO:root:right basilar area -> right basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:lower area -> lower
+INFO:root:PA view -> posteroanterior
+INFO:root:right apical area -> right apical
+INFO:root:left lower area -> left lower
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right lower lung area -> right lower lung
+INFO:root:left area -> left
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:right bilateral area -> right bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:right middle rib area -> right middle rib
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:left basilar area -> left basilar
+INFO:root:left retrocardiac area and right basal area -> left retrocardiac and right basal
+INFO:root:right basal area -> right basal
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:right area -> right
+INFO:root:left lung area -> left lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:rib area -> rib
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left apical area -> left apical
+INFO:root:left basilar area -> left basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:retrocardiac right area -> retrocardiac right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left basal area -> left basal
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bibasilar pleural area -> bibasilar pleural
+INFO:root:left area and right area -> left and right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:lower lung area -> lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:left area -> left
+INFO:root:AP view -> anteroposterior
+INFO:root:right area -> right
+INFO:root:apical area -> apical
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right area -> right
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:basal area -> basal
+INFO:root:bilateral area -> bilateral
+INFO:root:right area and left area -> right and left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left area and bilateral area -> left and bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right basilar area -> right basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right lung area -> right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right rib area -> right rib
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:right apical area -> right apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:lung left area -> lung left
+INFO:root:apical area -> apical
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:basal area -> basal
+INFO:root:left area -> left
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right basal area -> right basal
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left basal area -> left basal
+INFO:root:right area -> right
+INFO:root:lung bibasilar area -> lung bibasilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:right basilar area -> right basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:lower area -> lower
+INFO:root:basal pleural area -> basal pleural
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:rib area -> rib
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:pleural area -> pleural
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:left basal area -> left basal
+INFO:root:left area -> left
+INFO:root:right middle lower lung area -> right middle lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:basilar area -> basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:middle to lower right lung area -> middle to lower right lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right lower lung area -> right lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:lower lung area -> lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left apical area -> left apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right middle lung area -> right middle lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:lower lung area -> lower lung
+INFO:root:basilar area -> basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:right area -> right
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:mid area -> mid
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:left middle lung area -> left middle lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:right apical area -> right apical
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung retrocardiac area and right upper lung area -> left lower lung retrocardiac and right upper lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral lung area -> bilateral lung
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:right rib area -> right rib
+INFO:root:AP view -> anteroposterior
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower area -> left lower
+INFO:root:right area -> right
+INFO:root:AP view -> anteroposterior
+INFO:root:left area -> left
+INFO:root:left basal area -> left basal
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:pleural area -> pleural
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:right area -> right
+INFO:root:left lung area -> left lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left area -> left
+INFO:root:basilar area -> basilar
+INFO:root:AP view -> anteroposterior
+INFO:root:pericardial area -> pericardial
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:apical area -> apical
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:AP view -> anteroposterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:lung right area -> lung right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:basilar area -> basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:right area -> right
+INFO:root:lung area -> lung
+INFO:root:right upper lung area -> right upper lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right apical area -> right apical
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area -> bibasilar
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:left area and right area -> left and right
+INFO:root:PA view -> posteroanterior
+INFO:root:left basilar area -> left basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:left lung area -> left lung
+INFO:root:bibasilar area -> bibasilar
+INFO:root:basilar area -> basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:right lung area -> right lung
+INFO:root:right area -> right
+INFO:root:right basal area -> right basal
+INFO:root:left retrocardiac area -> left retrocardiac
+INFO:root:apical area -> apical
+INFO:root:right basal area -> right basal
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:right area and left area -> right and left
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right apical area -> right apical
+INFO:root:bilateral basal area -> bilateral basal
+INFO:root:lower area -> lower
+INFO:root:left lower area -> left lower
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right middle lung area -> right middle lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:bilateral area -> bilateral
+INFO:root:right area and left area -> right and left
+INFO:root:PA view -> posteroanterior
+INFO:root:rib area -> rib
+INFO:root:pericardial area -> pericardial
+INFO:root:left rib area -> left rib
+INFO:root:right area -> right
+INFO:root:AP view -> anteroposterior
+INFO:root:PA view -> posteroanterior
+INFO:root:lung area -> lung
+INFO:root:bilateral area -> bilateral
+INFO:root:bilateral area -> bilateral
+INFO:root:PA view -> posteroanterior
+INFO:root:right lower lung area -> right lower lung
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left area -> left
+INFO:root:PA view -> posteroanterior
+INFO:root:left lower lung area -> left lower lung
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right basilar area -> right basilar
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:retrocardiac area -> retrocardiac
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung area -> left lower lung
+INFO:root:bilateral area -> bilateral
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:PA view -> posteroanterior
+INFO:root:right area -> right
+INFO:root:lower lung area -> lower lung
+INFO:root:right area -> right
+INFO:root:right area -> right
+INFO:root:PA view -> posteroanterior
+INFO:root:bibasilar area and right lower lung area -> bibasilar and right lower lung
+INFO:root:left lung area -> left lung
+INFO:root:bilateral area -> bilateral
+INFO:root:left lower lung area -> left lower lung
+INFO:root:left basilar area -> left basilar
+INFO:root:PA view -> posteroanterior
+INFO:root:共有8046条数据，修改了1188条数据，pa_ap_count:407,area_count:781
